@@ -25,7 +25,7 @@ README.md
  10. add project to a git repo 
 
      * git init 
-     * git remote add <https://somererource.com>
+     * git remote add <https://someresource.com>
      * git add . 
      * git push -u origin master 
 
